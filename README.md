@@ -1,4 +1,4 @@
-## Hey There 👋! 
+<h1> Hi There👋! Welcome to my Github !</h1>
 <h2 align="left">My name is Chang Zhi Heng and I'm currently a Year 2 Student pursing a Diploma in Information Technology, from Ngee Ann Polytechnic!</h2>
 
 ###
