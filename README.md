@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Zhi Heng and I'm currently a Year 2 Student pursing a Diploma in Information Technology from Ngee Ann Polytechnic!</h2>
+<h2 align="left">My name is Zhi Heng and I'm currently a Year 3 Student pursing a Diploma in Information Technology from Ngee Ann Polytechnic!</h2>
 
 ###
 
